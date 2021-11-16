@@ -17,5 +17,6 @@
 
 * If you encounterd some Bugs or want to help us to improve more the app please contact me on my Facebook acc or Email.
 
+* ❌ This app is still in development but you can download it if you want to try the app.
  
 
