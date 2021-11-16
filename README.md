@@ -9,6 +9,7 @@
  
  ## About TCT-app 
  ```bibtex
- TCT app (Termux Commands & Tools) is an app which helps Termux Users To Install a Tool and learn More About It.
+ TCT app (Termux Commands & Tools) is an app which helps Termux Users 
+ To Install a Tool and learn More About It.
  
 
