@@ -9,7 +9,7 @@
  
  ## About TCT-app 
  
-`TCT app (Termux Commands & Tools) is an app which helps Termux Users 
+* TCT app (Termux Commands & Tools) is an app which helps Termux Users 
  To Install a Tool and learn More About It.
  
 
