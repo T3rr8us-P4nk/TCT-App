@@ -9,7 +9,13 @@
  
  ## About TCT-app 
  
-* TCT app (Termux Commands & Tools) is an app which helps Termux Users 
- To Install a Tool and learn More About It.
+* 🛑TCT app (Termux Commands & Tools) is an app which helps Termux Users 
+ To Install a Tool and learn More About It. You can find some Exploitation Tools, Information Gathering Tools, More...
+ You can also install my Own Tools in the app.
+ 
+* The creator of this app is Terrius of course with the help of my teammates and friends.
+
+* If you encounterd some Bugs or want to help us to improve more the app please contact me on my Facebook acc or 
+* Email.
  
 
