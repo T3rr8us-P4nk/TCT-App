@@ -15,7 +15,7 @@
  
 * The creator of this app is Terrius of course with the help of my teammates and friends.
 
-* If you encounterd some Bugs or want to help us to improve more the app please contact me on my Facebook acc or 
-* Email.
+* If you encounterd some Bugs or want to help us to improve more the app please contact me on my Facebook acc or Email.
+
  
 
