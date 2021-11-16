@@ -6,4 +6,9 @@
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> TCT App 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6XZ2_j5Ff98d4XCvPMVcYiSHgtEBotfGerw&usqp=CAU"/>
+ 
+ ## About TCT-app 
+ ```
+ TCT app (Termux Commands & Tools) is an app which helps Termux Users To Install a Tool and learn More About It.
+ 
 
